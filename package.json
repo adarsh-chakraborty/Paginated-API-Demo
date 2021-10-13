@@ -1,0 +1,23 @@
+{
+	"name": "paginated-api-demo",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"scripts": {
+		"start": "nodemon server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "Paginated-API-Demo"
+	},
+	"author": "adarsh chakraborty",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.17.1",
+		"mongoose": "^6.0.10"
+	},
+	"devDependencies": {
+		"dotenv": "^10.0.0",
+		"nodemon": "^2.0.13"
+	}
+}
